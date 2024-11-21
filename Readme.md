@@ -1,0 +1,1 @@
+Used custom styles in tailwind index.css
